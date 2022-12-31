@@ -1,0 +1,24 @@
+{
+  "name": "complete-sass-tutorial---netninja",
+  "version": "1.0.0",
+  "description": "project to learn sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimaduddin/Complete-SASS-Tutorial---NetNinja.git"
+  },
+  "author": "Aima Aimaduddin bin Bollhasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimaduddin/Complete-SASS-Tutorial---NetNinja/issues"
+  },
+  "homepage": "https://github.com/aimaduddin/Complete-SASS-Tutorial---NetNinja#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.57.1"
+  }
+}
